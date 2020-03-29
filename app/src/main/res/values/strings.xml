@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="welcome_back_again">Welcome back again!</string>
+    <string name="you_are_not_a_member">You are not a member?</string>
+    <string name="register">Register.</string>
+    <string name="nice_to_see_you">Nice to see you again</string>
+    <string name="welcome">welcome!</string>
+    <string name="someone_gmail_com">someone@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="need_help">Need Help?</string>
+    <string name="re_enter_password">Re enter password</string>
+    <string name="new_password">New Password</string>
+    <string name="register1">Register</string>
+    <string name="new_user">New User</string>
+</resources>
