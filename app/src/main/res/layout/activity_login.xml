@@ -6,7 +6,7 @@
     android:background="@drawable/background2"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Main2Activity">
+    tools:context=".LoginActivity">
 
     <EditText
         android:id="@+id/editText"
@@ -76,12 +76,26 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/darkiuniverse"
-        android:text="Login"
-        android:textSize="30dp"
+        android:text="@string/login"
+        android:textSize="30sp"
         android:textColor="@color/black"
         app:layout_constraintBottom_toTopOf="@+id/editText"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.828" />
+
+    <Button
+        android:id="@+id/goBack"
+        android:layout_width="38dp"
+        android:layout_height="30dp"
+        android:background="@drawable/go"
+        android:onClick="goBack"
+        android:text="@string/goBack"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.081"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.038" />
 </androidx.constraintlayout.widget.ConstraintLayout>
