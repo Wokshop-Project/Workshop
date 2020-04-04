@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820878961373",
+    "firebase_url": "https://workshop-bed35.firebaseio.com",
+    "project_id": "workshop-bed35",
+    "storage_bucket": "workshop-bed35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820878961373:android:68af48d2ae8ba510a44934",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820878961373-lm8asr51kmg6cnq7khhljh88pke2eqp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw4uj6rahVkLCwEZ4mwOFRCFtRFXwOxgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820878961373-lm8asr51kmg6cnq7khhljh88pke2eqp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

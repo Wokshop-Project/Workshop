@@ -14,4 +14,7 @@
     <string name="register1">Register</string>
     <string name="new_user">New User</string>
     <string name="goBack"></string>
+    <string name="phone_number">Phone number</string>
+    <string name="fullname">Fullname</string>
+    <string name="logout">Logout</string>
 </resources>
